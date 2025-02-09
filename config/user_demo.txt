@@ -150,127 +150,115 @@ CCTV兵器科技
 中学生
 
 🔆4K-UHD🔆,#genre#
-南国都市 4k,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-南国都市 4k,http://php.jdshipin.com/TVOD/iptv.php?id=ngds4k
-CCTV-4K 超高清,http://148.135.93.213:81/live.php?id=CCTV4K-av3a
-CCTV-4K 超高清,http://117.144.58.42:35455/gaoma/cctv4k.m3u8
-CCTV-4K 超高清,http://home.wwang.pw:35455/gaoma/cctv4k.m3u8
-CCTV-4K 超高清,http://www.clmy.cc:35455/gaoma/cctv4k_10m.m3u8
-CCTV-16 4K,http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
-CCTV-16 4K,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000008000023254
-CCTV-16 4K,http://110.42.96.4:44801/5000000008000023254/bestzb/index.m3u8
-CCTV-16 4K,http://xxx.504900.xyz:35455/itv/5000000008000023254.m3u8?cdn=bestzb
-CCTV-16 4K,http://3501776.xyz:35455/itv/5000000008000023254.m3u8?cdn=bestzb
-CCTV-16 4K,http://gf.you123.fun:35455/itv/5000000008000023254.m3u8?cdn=bestzb
-CCTV-16 4K,http://120.55.49.231:3095/rtp/233.50.201.63:5140
-CCTV-8K,http://148.135.93.213:81/live.php?id=CCTV8K-av3a
-CCTV-8K,http://home.wwang.pw:35455/gaoma/cctv8k_36m.m3u8
-CCTV-8K,http://303415198.xyz:35455/gaoma/cctv8k_36m.m3u8
-CCTV-8K,http://www.clmy.cc:35455/gaoma/cctv8k_36m.m3u8
-Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Love Nature 4K「自然」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-👉以下频道需要魔法👈,https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
-4k| TF1 HDR/UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640379&extension=ts&play_token=lgnNJzpEMh
-4k| TF1 UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640384&extension=ts&play_token=7bOg99WSzO
-4k| FRANCE 2 HDR/UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640378&extension=ts&play_token=PGgokQSNrQ
-4k| FRANCE 2 UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640381&extension=ts&play_token=SkZrZsFeqs
-4k| NESN UHD/4K+,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1124351&extension=ts&play_token=Y7IBAVGEBl
-4k| FRANCE 3 UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640382&extension=ts&play_token=EFwE6fLEiP
-4k| M6 UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640383&extension=ts&play_token=aPZcL1cE88
-4k| EVENEMENT SPORT HDR/UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640385&extension=ts&play_token=4LHRq9tqPg
-4k| CANAL+ EVENEMENT UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640388&extension=ts&play_token=oYviIQqRpk
-4K| CANAL+ UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491210&extension=ts&play_token=ekRf9qUz1S
-SP| CANAL+ 4K+/UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1380013&extension=ts&play_token=DGH6Us2dRP
-4k| CANAL+ HDR/UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640387&extension=ts&play_token=DzsmCd3diO
-4k| CANAL+ BOX OFFICE UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640380&extension=ts&play_token=lIwoypezJw
-4k| LOUPE ART UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640386&extension=ts&play_token=LfFHXBucSN
-4K| LOVE NATURE UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1471386&extension=ts&play_token=3OuUJVwKfP
-4K| MUSEUM UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1632124&extension=ts&play_token=Ug5BjAqQzJ
-4K| BLOOMBERG UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1470604&extension=ts&play_token=XIV2XrYGjY
-4K| CNN UHD 4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1470653&extension=ts&play_token=y57yEptiwa
-4K| ZEE TV UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1471380&extension=ts&play_token=JJBnbXZGUZ
-4K| COCINA UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1471385&extension=ts&play_token=Hu4OE157tX
-4K| DECASA UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1471384&extension=ts&play_token=lnR5xSN3qX
-4K| LA 1 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1620282&extension=ts&play_token=pCh5qViCfO
-4K| UHD 1 BY ASTRA,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491209&extension=ts&play_token=9C1bctJlld
-4K| QVC ZWEI UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491208&extension=ts&play_token=kkYtoBFeFl
-4K| QVC UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491207&extension=ts&play_token=luIzDV3f8v
-4K| ODISEA UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1471383&extension=ts&play_token=8rISMzb6yT
-4K| SKY PRIMAFILA 1 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491180&extension=ts&play_token=BtO4QPRHkv
-4K| SKY PRIMAFILA 2 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491181&extension=ts&play_token=ebqs6BW87E
-4K| SKY PRIMAFILA 3 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491183&extension=ts&play_token=kk8Gtfhi5Y
-4K| SKY PRIMAFILA 4 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491184&extension=ts&play_token=18EwSqbvHN
-4K| SKY PRIMAFILA 5 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491185&extension=ts&play_token=JWEYxJSrfu
-4K| SKY PRIMAFILA 6 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491186&extension=ts&play_token=YE268QNGrv
-4K| SKY PRIMAFILA 7 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491187&extension=ts&play_token=MTYf6pi5K8
-4K| SKY PRIMAFILA 8 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491188&extension=ts&play_token=RF6bF0Tb4g
-4K| SKY PRIMAFILA 9 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491189&extension=ts&play_token=HYyQsclz23
+南国都市 4k,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4$!
+CCTV-4K 超高清,http://148.135.93.213:81/live.php?id=CCTV4K-av3a$!
+CCTV-16 4K,http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a$!
+CCTV-8K,http://148.135.93.213:81/live.php?id=CCTV8K-av3a$!
+Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$!
+Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8$!
+Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8$!
+👉以下频道需要魔法👈,https://cloud.wujiyan.cc/f/8Dmfb/3.MOV$!
+4k| TF1 HDR/UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640379&extension=ts&play_token=lgnNJzpEMh$!
+4k| TF1 UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640384&extension=ts&play_token=7bOg99WSzO$!
+4k| FRANCE 2 HDR/UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640378&extension=ts&play_token=PGgokQSNrQ$!
+4k| FRANCE 2 UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640381&extension=ts&play_token=SkZrZsFeqs$!
+4k| NESN UHD/4K+,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1124351&extension=ts&play_token=Y7IBAVGEBl$!
+4k| FRANCE 3 UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640382&extension=ts&play_token=EFwE6fLEiP$!
+4k| M6 UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640383&extension=ts&play_token=aPZcL1cE88$!
+4k| EVENEMENT SPORT HDR/UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640385&extension=ts&play_token=4LHRq9tqPg$!
+4k| CANAL+ EVENEMENT UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640388&extension=ts&play_token=oYviIQqRpk$!
+4K| CANAL+ UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491210&extension=ts&play_token=ekRf9qUz1S$!
+SP| CANAL+ 4K+/UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1380013&extension=ts&play_token=DGH6Us2dRP$!
+4k| CANAL+ HDR/UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640387&extension=ts&play_token=DzsmCd3diO$!
+4k| CANAL+ BOX OFFICE UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640380&extension=ts&play_token=lIwoypezJw$!
+4k| LOUPE ART UHD/4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1640386&extension=ts&play_token=LfFHXBucSN$!
+4K| LOVE NATURE UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1471386&extension=ts&play_token=3OuUJVwKfP$!
+4K| MUSEUM UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1632124&extension=ts&play_token=Ug5BjAqQzJ$!
+4K| BLOOMBERG UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1470604&extension=ts&play_token=XIV2XrYGjY$!
+4K| CNN UHD 4K,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1470653&extension=ts&play_token=y57yEptiwa$!
+4K| ZEE TV UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1471380&extension=ts&play_token=JJBnbXZGUZ$!
+4K| COCINA UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1471385&extension=ts&play_token=Hu4OE157tX$!
+4K| DECASA UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1471384&extension=ts&play_token=lnR5xSN3qX$!
+4K| LA 1 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1620282&extension=ts&play_token=pCh5qViCfO$!
+4K| UHD 1 BY ASTRA,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491209&extension=ts&play_token=9C1bctJlld$!
+4K| QVC ZWEI UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491208&extension=ts&play_token=kkYtoBFeFl$!
+4K| QVC UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491207&extension=ts&play_token=luIzDV3f8v$!
+4K| ODISEA UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1471383&extension=ts&play_token=8rISMzb6yT$!
+4K| SKY PRIMAFILA 1 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491180&extension=ts&play_token=BtO4QPRHkv$!
+4K| SKY PRIMAFILA 2 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491181&extension=ts&play_token=ebqs6BW87E$!
+4K| SKY PRIMAFILA 3 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491183&extension=ts&play_token=kk8Gtfhi5Y$!
+4K| SKY PRIMAFILA 4 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491184&extension=ts&play_token=18EwSqbvHN$!
+4K| SKY PRIMAFILA 5 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491185&extension=ts&play_token=JWEYxJSrfu$!
+4K| SKY PRIMAFILA 6 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491186&extension=ts&play_token=YE268QNGrv$!
+4K| SKY PRIMAFILA 7 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491187&extension=ts&play_token=MTYf6pi5K8$!
+4K| SKY PRIMAFILA 8 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491188&extension=ts&play_token=RF6bF0Tb4g$!
+4K| SKY PRIMAFILA 9 UHD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491189&extension=ts&play_token=HYyQsclz23$!
 
 🔆HK香港-①🔆,#genre#
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-无线新闻台(北美)	,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+👉以下频道需要魔法👈,https://d.kstore.dev/download/7692/4.mp4$!
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$!
+翡翠台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8$!
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$!
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$!
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$!
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8$!
+無線新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8$!
+无线新闻台(北美)	,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$!
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8$!
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8$!
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8$!
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8$!
+千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8$!
+娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8$!
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$!
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$!
+美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8$!
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$!
+黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8$!
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8$!
+AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8$!
+Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8$!
+Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8$!
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8$!
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8$!
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8$!
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8$!
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8$!
+NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8$!
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8$!
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8$!
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8$!
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8$!
+亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8$!
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8$!
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8$!
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8$!
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8$!
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8$!
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8$!
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8$!
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8$!
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8$!
 
 🔆HK香港-②🔆,#genre#
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-翡翠台(北美版),http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+👉以下频道需要魔法👈,https://d.kstore.dev/download/7692/4.mp4$!
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$!
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$!
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$!
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct$!
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2$!
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$!
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4$!
+翡翠台(北美版),http://php.jdshipin.com/TVOD/iptv.php?id=j1$!
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1$!
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2$!
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp$!
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$!
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2$!
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv$!
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2$!
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya$!
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd$!
 Now华剧
 Now爆谷
 Now星影
@@ -280,28 +268,29 @@ now新闻台
 now财经台
 天映频道
 PopC
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-👉以下频道需要魔法👈,https://7692.kstore.space/4.mp4
-Now HK Now Sports 4K,http://doubleclicktv.live/70376812/52663544/253024
-Now Sports PL 1 FHD,http://doubleclicktv.live/70376812/52663544/253023
-Now Sports PL 2 FHD (Matchtime Only),http://doubleclicktv.live/70376812/52663544/253022
-Now Sports PL 3 FHD (Matchtime Only),http://doubleclicktv.live/70376812/52663544/253021
-Now Sports PL 4 FHD (Matchtime Only),http://doubleclicktv.live/70376812/52663544/253020
-Now Sports PL 5 FHD (Matchtime Only),http://doubleclicktv.live/70376812/52663544/253019
-Now Sports PL 6 FHD (Matchtime Only),http://doubleclicktv.live/70376812/52663544/253018
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$!
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$!
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam$!
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as$!
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31$!
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32$!
+CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$!
+👉以下频道需要魔法👈,https://d.kstore.dev/download/7692/4.mp4$!
+Now HK Now Sports 4K,http://doubleclicktv.live/70376812/52663544/253024$!
+Now Sports PL 1 FHD,http://doubleclicktv.live/70376812/52663544/253023$!
+Now Sports PL 2 FHD (Matchtime Only),http://doubleclicktv.live/70376812/52663544/253022$!
+Now Sports PL 3 FHD (Matchtime Only),http://doubleclicktv.live/70376812/52663544/253021$!
+Now Sports PL 4 FHD (Matchtime Only),http://doubleclicktv.live/70376812/52663544/253020$!
+Now Sports PL 5 FHD (Matchtime Only),http://doubleclicktv.live/70376812/52663544/253019$!
+Now Sports PL 6 FHD (Matchtime Only),http://doubleclicktv.live/70376812/52663544/253018$!
 
 🔆TW湾湾-①🔆,#genre#
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+👉以下频道需要魔法👈,https://d.kstore.dev/download/7692/4.mp4$!
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8$!
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8$!
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8$!
+亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8$!
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8$!
 民视,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv002
 民视,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv155
 民视第一台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv003
@@ -395,51 +384,50 @@ Smart知识台,https://bk.msbot.us.kg/litv.php?id=litv-longturn19
 国会频道2,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv085
 
 🔆TW湾湾-②🔆,#genre#
-民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-MOMO综合,rtmp://f13h.mine.nu/sat/tv761
-DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
-DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
-三立台灣台,http://103.147.236.18:7774/play/a00g/index.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
-TVBS欢乐,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
-三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
-ASC搜索,http://61.221.215.25:8800/hls/50/index.m3u8
-Diso综合,http://61.221.215.25:8800/hls/1/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-NHK-WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-BLOOMBERG,http://125.227.210.55:8161/VideoInput/play.ts
-CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
-BBCNEW,http://125.227.210.55:8165/VideoInput/play.ts
-CNNNEW,http://125.227.210.55:8166/VideoInput/play.ts
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-中旺电视,http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
-汉天HTTV,http://38.64.72.148/hls/modn/list/4025/chunklist0.m3u8
-KTSF26,http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
+民视,rtmp://f13h.mine.nu/sat/tv051$!
+台视,rtmp://f13h.mine.nu/sat/tv071$!
+中视,rtmp://f13h.mine.nu/sat/tv091$!
+华视,rtmp://f13h.mine.nu/sat/tv111$!
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581$!
+东森超视,rtmp://f13h.mine.nu/sat/tv331$!
+纬来体育,rtmp://f13h.mine.nu/sat/tv721$!
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701$!
+纬来日本,rtmp://f13h.mine.nu/sat/tv771$!
+MOMO综合,rtmp://f13h.mine.nu/sat/tv761$!
+DAZN体育1,rtmp://f13h.mine.nu/sat/tv731$!
+DAZN体育2,rtmp://f13h.mine.nu/sat/tv741$!
+三立台灣台,http://103.147.236.18:7774/play/a00g/index.m3u8$!
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$!
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$!
+TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8$!
+TVBS欢乐,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$!
+TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8$!
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8$!
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8$!
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8$!
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8$!
+三立台灣,http://125.227.210.55:8160/VideoInput/play.ts$!
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts$!
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$!
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8$!
+amc电影,http://61.221.215.25:8800/hls/43/index.m3u8$!
+ASC搜索,http://61.221.215.25:8800/hls/50/index.m3u8$!
+Diso综合,http://61.221.215.25:8800/hls/1/index.m3u8$!
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8$!
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8$!
+NHK-WORLD,http://61.221.215.25:8800/hls/51/index.m3u8$!
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$!
+BLOOMBERG,http://125.227.210.55:8161/VideoInput/play.ts$!
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$!
+TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts$!
+BBCNEW,http://125.227.210.55:8165/VideoInput/play.ts$!
+CNNNEW,http://125.227.210.55:8166/VideoInput/play.ts$!
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$!
+中旺电视,http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8$!
+汉天HTTV,http://38.64.72.148/hls/modn/list/4025/chunklist0.m3u8$!
+KTSF26,http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8$!
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8$!
+食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts$!
 
 🔆日本频道🔆,#genre#
 👉以下频道需要魔法👈,https://d.kstore.dev/download/7692/4.mp4
